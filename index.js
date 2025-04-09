@@ -1,4 +1,8 @@
+#!/usr/bin/env node
 const https = require("https");
+
+console.clear();
+console.log(`\x1b[1m\x1b[32m=== Zaid's GitHub Activity CLI ===\x1b[0m\n`);
 
 const username = process.argv[2];
 
@@ -32,7 +36,7 @@ https.get(url, options, (res) => {
           const repo = event.repo.name;
           if (type === "PushEvent") {
             const commitsNum = event.payload.commits.length;
-            console.log(`Pushed ${commitsNum} commits to ${repo} `);
+            console.log(`\x1b[32m Pushed ${commitsNum} commits to ${repo} \x1b[0m`);
           } else if (type === "WatchEvent") {
             console.log(`Opened a new issue in ${repo} `);
           } else if (type === "StarrdEvent") {
