@@ -7,9 +7,9 @@
 ## About :computer:
 
 Simple command line interface (CLI) to fetch the recent activity of a GitHub user and display it in the terminal. The app uses the GitHub API to fetch the user's activity and display it in the terminal.
-
-<img src="src/main/resources/CLI.png" alt="GitHub User Activity CLI" width="400"/> <br>
-
+<p align="center">
+<img src="src/main/resources/CLI.PNG" alt="GitHub User Activity CLI" width="400"/> <br>
+</p>
 ## Features :sparkles:
 
 - Fetch the recent activity of a GitHub user
