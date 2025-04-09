@@ -10,6 +10,7 @@ Simple command line interface (CLI) to fetch the recent activity of a GitHub use
 <p align="center">
 <img src="src/main/resources/CLI.PNG" alt="GitHub User Activity CLI" width="400"/> <br>
 </p>
+
 ## Features :sparkles:
 
 - Fetch the recent activity of a GitHub user
