@@ -41,6 +41,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Zaid Hadya - [@Zaid](https://www.linkedin.com/in/zaid-hadya)
 
-Project Link: [https://github.com/ASJordi/gh-user-activity-cli](https://github.com/Zaid_Hadya/gh-activity-cli)
+Project Link: [https://github.com/Zaid-Hadya/gh-activity-cli](https://github.com/Zaid-Hadya/gh-activity-cli)
 
 Reference: [https://roadmap.sh/projects/github-user-activity](https://roadmap.sh/projects/github-user-activity)
